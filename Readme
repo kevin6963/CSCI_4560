@@ -1,0 +1,7 @@
+# e-commerce_system
+Utilizing a web browser or a mobile app, online shopping is a type of electronic commerce that enables customers to make direct purchases of goods or services from sellers
+via the Internet. The online shopping system is written in PHP and runs on a virtual server called XAMPP.
+
+This project has an admin side as well as a user side where users may check shopping item details, sign up, and buy stuff online. While the administrator can add things and
+users, manage products, and so forth.In terms of system functions, the admin can manage users, products, and check subscriptions. By signing in, the user has access to all 
+available shopping goods. And, in order to purchase things online, he or she must first join up/log in to the system.
